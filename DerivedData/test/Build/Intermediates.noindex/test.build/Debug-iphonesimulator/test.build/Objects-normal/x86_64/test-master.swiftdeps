@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "090c315702922aaac14f4229e972f5af"
+build_time: [1596505153, 600228000]
+inputs:
+  "/Users/dngg1688/Desktop/test/test/test/ViewController.swift": [1596505148, 125650886]
+  "/Users/dngg1688/Desktop/test/test/test/AppDelegate.swift": [1596505148, 114339278]
+  "/Users/dngg1688/Desktop/test/test/test/SceneDelegate.swift": [1596505148, 123612720]
